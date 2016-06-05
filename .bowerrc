@@ -1,0 +1,5 @@
+{
+  "proxy": "http://runnls001.symphonyteleca.com:8080",
+  "https-proxy": "http://runnls001.symphonyteleca.com:8080",
+  "directory": "bower_components"
+}
